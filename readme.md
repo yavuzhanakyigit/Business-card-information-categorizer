@@ -19,4 +19,5 @@ The classifier handles multi-line input and attempts to classify each line into 
 extra requirements:
 python -m spacy download en_core_web_sm
 
+For the application to work properly please be sure the "MODEL_PATH" variable is set correctly.
 This model is experimental and not %100 accurate, please check important data.
